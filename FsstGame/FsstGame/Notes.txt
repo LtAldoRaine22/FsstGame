@@ -1,0 +1,11 @@
+﻿
+
+Upgrades:
+
+-MainGunLevel
+-MainGunShootFreq
+
+-SpaceShip Speed
+-SpaceShip MaxHealth
+-SpaceShip Shield - Strength
+-SpaceShip Shield - RegenRate

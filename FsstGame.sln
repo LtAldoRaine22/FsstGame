@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FsstGame", "FsstGame\FsstGame\FsstGame.csproj", "{24297EC2-DAD8-493A-8C70-42E583E0C5A2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FsstGameContent", "FsstGame\FsstGameContent\FsstGameContent.contentproj", "{935B2F2E-778C-46DA-9CB5-910A78217D56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24297EC2-DAD8-493A-8C70-42E583E0C5A2}.Debug|x86.ActiveCfg = Debug|x86
+		{24297EC2-DAD8-493A-8C70-42E583E0C5A2}.Debug|x86.Build.0 = Debug|x86
+		{24297EC2-DAD8-493A-8C70-42E583E0C5A2}.Release|x86.ActiveCfg = Release|x86
+		{24297EC2-DAD8-493A-8C70-42E583E0C5A2}.Release|x86.Build.0 = Release|x86
+		{935B2F2E-778C-46DA-9CB5-910A78217D56}.Debug|x86.ActiveCfg = Debug|x86
+		{935B2F2E-778C-46DA-9CB5-910A78217D56}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

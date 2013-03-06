@@ -1,0 +1,2 @@
+I:\Schule\FSST\FsstGame\FsstGame\FsstGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Schule\FSST\FsstGame\FsstGame\FsstGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
